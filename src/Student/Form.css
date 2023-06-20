@@ -1,0 +1,27 @@
+.form {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+    
+  }
+  
+  .form input {
+    background-color: rgb(224, 236, 224);
+    padding: 8px;
+    margin-bottom: 10px;
+    margin-right: 2px;
+  }
+  
+  .form button {
+    padding: 8px 16px;
+    background-image: linear-gradient(to right, #59af5c, #40a145);
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .form button:hover {
+    background-image: linear-gradient(to right, #40a145, #23bd28);
+  }
+  
+  

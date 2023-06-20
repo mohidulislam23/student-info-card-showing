@@ -1,0 +1,21 @@
+.card {
+  display: flex-box;
+  align-items: center;
+  background-image: linear-gradient(to bottom right, #4caf50, #60c531);
+  color: rgb(255, 255, 255);
+  border: 1px solid black;
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.card h2 {
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+  
+  .card p {
+    font-size: 16px;
+    font-weight: bold;
+    color: #3a3939;
+  }
